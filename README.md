@@ -21,6 +21,4 @@ How to use :
 <br>
     10. Login user - username : user123 - password : user123
 <br>
-
-Thanks
-"# herokularavel" 
+ 
